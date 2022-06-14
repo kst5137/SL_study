@@ -1,14 +1,14 @@
 # 네이버 기술 블로그
 
-[NAVER D2](https://d2.naver.com/home)
+[네이버 기술 블로그](https://d2.naver.com/home)
 
 # 테이블링 기술 블로그
 
-[](https://techblog.tabling.co.kr/)
+[테이블링](https://techblog.tabling.co.kr/)
 
 # 카카오 기술 블로그
 
-[blog](https://tech.kakao.com/blog/)
+[카카오 기술 ](https://tech.kakao.com/blog/)
 
 # 원티드 기술 블로그
 
@@ -104,19 +104,15 @@
 
 # 라인 기술 블로그
 
-[Blog - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog)
+[라인 Blog - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog)
 
 # 비브로스 기술 블로그
 
-[](https://boostbrothers.github.io/)
+[비브로스](https://boostbrothers.github.io/)
 
 # Class101 기술 블로그
 
 [CLASS101 - Medium](https://medium.com/class101)
-
-# 버즈빌 기술 블로그
-
-[Blog](https://tech.buzzvil.com/blog/)
 
 # 뱅크샐러드 기술 블로그
 
@@ -148,7 +144,7 @@
 
 # SK C&C 기술 블로그
 
-[](https://engineering-skcc.github.io/)
+[SK C&C](https://engineering-skcc.github.io/)
 
 # 스포카 기술 블로그
 
